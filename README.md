@@ -2,6 +2,8 @@
 
 A fun, lightweight visualization that lives entirely in the browser. Sculpt a shimmering flow field with your cursor or fingertip, switch between neon palettes, and export stills as high-resolution PNGs.
 
+I vibe-coded this visualization with GitHub Copilot and GPT-5-Codex.
+
 ## ✨ Features
 
 - **Responsive flow field** rendered on Canvas with over a thousand particles dancing through a trig-based vector field.
