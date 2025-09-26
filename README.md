@@ -12,6 +12,10 @@ A fun, lightweight visualization that lives entirely in the browser. Sculpt a sh
 
 ## 🚀 Quick start
 
+Try it at [michen00.github.io/cool-viz](https://michen00.github.io/cool-viz).
+
+### 📡 Run it locally
+
 Serve the project from the repo root so the Canvas can animate with the controls.
 
 ```bash
@@ -21,13 +25,7 @@ python3 -m http.server 5173
 
 Open `http://localhost:5173` and start sculpting. Any static server works (`npx serve`, VS Code Live Server, etc.).
 
-## 🌐 Publish to GitHub Pages
-
-1. Commit the repo and push it to GitHub.
-2. In your repository settings, enable **Pages** and pick the `main` branch with the `/ (root)` folder.
-3. Save. Within a minute or two `https://<your-username>.github.io/<repo>/` will host your visualization.
-
-For a custom domain, point your DNS to GitHub Pages and drop a `CNAME` file in the repo root.
+<!-- For a custom domain, point your DNS to GitHub Pages and drop a `CNAME` file in the repo root. -->
 
 ## 🎛 Customize it
 

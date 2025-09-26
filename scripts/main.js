@@ -307,7 +307,6 @@ function renderControlPanel() {
     </div>
 		<div class="panel-footer">
 			<span>Shortcuts: <kbd>Space</kbd> pause, <kbd>R</kbd> shuffle, <kbd>S</kbd> save.</span>
-			<span>Tip: Deploy this folder with GitHub Pages (main branch / root).</span>
 		</div>
 	`;
 
